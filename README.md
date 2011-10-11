@@ -2,15 +2,15 @@ GAE Helloworld - Python version
 ===============================
 
 This is the most simplest application for
-[Google Application Engine]{http://code.google.com/intl/cs/appengine/}
+Google Application Engine http://code.google.com/intl/cs/appengine/
 
 Additionally to Hello world phrase it also prints current date/time 
-to ensure that you are seeing uptodate code.
+to ensure that you are seeing uptodate content.
 
 Setup
 -----
 
-* Get [GAE SDK for Python]{http://code.google.com/intl/cs/appengine/downloads.html#Google_App_Engine_SDK_for_Python}
+* Get GAE SDK for Python from http://code.google.com/intl/cs/appengine/downloads.html#Google_App_Engine_SDK_for_Python
 * install that SDK somewhere, for example:
 		su - # go to root, or maybe try 'sudo bash'
 		cd /opt
@@ -26,12 +26,12 @@ Running application localy
 * run development server
 		/opt/google_appengine/dev_appserver.py helloworld
 
-* point you browser to [http://localhost:8080/]{http://localhost:8080/}
+* point you browser to http://localhost:8080
 
 Deploying application to remote GAE
 -----------------------------------
 
-* you need to have valid GAE Account - sign on [http://code.google.com/appengine/]{http://code.google.com/appengine/}
+* you need to have valid GAE Account - sign on http://code.google.com/appengine/
 
 * you should create new Python application on your GAE Account (this is done via Web inteface)
 
@@ -40,6 +40,11 @@ Deploying application to remote GAE
 		/opt/google_appengine/appcfg.py update -A your_app_id helloworld
 
 * the application should be ready on your GAE site (usually something like `http://your_app_id.appspot.com'
+
+
+Live demo
+---------
+Is available on http://hp-hello1.appspot.com/
 
 
 
