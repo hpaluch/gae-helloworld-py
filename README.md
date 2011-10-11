@@ -2,7 +2,7 @@ GAE Helloworld - Python version
 ===============================
 
 This is the most simplest application for
-Google Application Engine http://code.google.com/intl/cs/appengine/
+Google Application Engine http://code.google.com/appengine/
 
 Additionally to Hello world phrase it also prints current date/time 
 to ensure that you are seeing uptodate content.
@@ -10,7 +10,7 @@ to ensure that you are seeing uptodate content.
 Setup
 -----
 
-* Get GAE SDK for Python from http://code.google.com/intl/cs/appengine/downloads.html#Google_App_Engine_SDK_for_Python
+* Get GAE SDK for Python from http://code.google.com/appengine/downloads.html#Google_App_Engine_SDK_for_Python
 * install that SDK somewhere, for example:
 		su - # go to root, or maybe try 'sudo bash'
 		cd /opt
