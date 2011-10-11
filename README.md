@@ -12,6 +12,7 @@ Setup
 
 * Get GAE SDK for Python from http://code.google.com/appengine/downloads.html#Google_App_Engine_SDK_for_Python
 * install that SDK somewhere, for example:
+
 		su - # go to root, or maybe try 'sudo bash'
 		cd /opt
 		unzip ~/path_to_my_sdk/google_appengine_1.5.4.zip
@@ -24,6 +25,7 @@ Running application localy
 		cd gae-helloworld-py
 
 * run development server
+
 		/opt/google_appengine/dev_appserver.py helloworld
 
 * point you browser to http://localhost:8080
@@ -45,7 +47,4 @@ Deploying application to remote GAE
 Live demo
 ---------
 Is available on http://hp-hello1.appspot.com/
-
-
-
 
