@@ -51,7 +51,7 @@ Is available on http://hp-hello1.appspot.com/
 Credits
 -------
 
-This (trivial) application is based on http://code.google.com/intl/cs/appengine/docs/python/gettingstarted/helloworld.html
+This (trivial) application is based on http://code.google.com/appengine/docs/python/gettingstarted/helloworld.html
 
 This project is licensed as Public Domain.
 
