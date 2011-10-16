@@ -22,7 +22,7 @@ Setup
 Running application localy
 --------------------------
 
-__This it not yet supported vor GAE version 1.5.5 - only live deployment work for now.__
+__This it not yet supported for GAE version 1.5.5 - only live deployment work for now.__
 
 * change your working directory to this git project, i.e.:
 
@@ -39,7 +39,7 @@ Deploying application to remote GAE
 
 * you need to have valid GAE Account - sign on http://code.google.com/appengine/
 
-* you should create new Python application on your GAE Account (this is done via Web inteface). The instance is required to use ''HR DataStore'' (requirement of GAE Python 2.7 environment)
+* you should create new Python application on your GAE Account (this is done via Web inteface). The instance is required to use __HR DataStore__ (requirement of GAE Python 2.7 environment)
 
 * once application is created on GAE you may deploy it:
 
